@@ -1,0 +1,9 @@
+{
+  "name": "@demo/auth-service",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "build": "echo 'Auth built successfully'"
+  }
+}
